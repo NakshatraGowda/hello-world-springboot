@@ -92,6 +92,6 @@ java -jar target/demo-0.0.1-SNAPSHOT.jar
 
 ## 📞 Contact
 
-**Nakshatra Gowda** - [@NakshatraGowda](nakshatra.gowda.2000@gmail.com)
+**Nakshatra Gowda** - nakshatra.gowda.2000@gmail.com
 
 ---
